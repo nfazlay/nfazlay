@@ -17,7 +17,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][https://github.com/nfazlay/SimpleGraphics_snake]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][https://github.com/nfazlay/FinalsCalculator]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][https://github.com/nfazlay/SimpleCardsGame]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][]
@@ -44,3 +44,4 @@
 [facebook]: https://facebook.com/fazlay.me
 [instagram]: https://instagram.com/nfazlay
 [linkedin]: https://linkedin.com/in/mdfazlayrabbi/
+[python]: https://github.com/nfazlay/SimpleGraphics_snake

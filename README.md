@@ -1,6 +1,6 @@
 ## Hi there, I'm Fazlay 👋
 
-### I'm a 3rd year Computer Science Student CarletonU!
+### I'm a 3rd year Computer Science Student at CarletonU!
 
 - 🔭 I’m currently doing an intership with Nokia 🖥️
 - 🌱 I’m currently learning everything 

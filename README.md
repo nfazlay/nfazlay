@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing an intership with Nokia 🖥️
 - 🌱 I’m currently learning everything 
-- 🥅 2020 Goals: Make myself look upto me
+- 🥅 2021 Goals: Make myself look upto me
 - ⚡ Fun fact: I love  to  cook, and play a little harmonica🎼
 
 ### Connect with me:

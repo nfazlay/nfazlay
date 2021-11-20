@@ -2,7 +2,7 @@
 
 ### I'm a 3rd year Computer Science Student at CarletonU!
 
-- 🔭 I’m currently doing an intership with Nokia 🖥️
+- 🔭 Ex Nokia | Incoming Ciena 🖥️
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Make myself look upto me
 - ⚡ Fun fact: I love  to  cook, and play a little harmonica🎼

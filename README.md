@@ -4,7 +4,7 @@
 
 - 🔭 Ex Nokia | Incoming Ciena 🖥️
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Make myself look upto me
+- 🥅 2022 Goals: Make myself look upto me
 - ⚡ Fun fact: I love  to  cook, and play a little harmonica🎼
 
 ### Connect with me:

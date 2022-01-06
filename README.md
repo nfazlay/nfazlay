@@ -1,6 +1,6 @@
 ## Hi there, I'm Fazlay 👋
 
-### I'm a 3rd year Computer Science Student at CarletonU!
+### I'm a 4th year Computer Science Student at CarletonU!
 
 - 🔭 Ex Nokia | Incoming Ciena 🖥️
 - 🌱 I’m currently learning everything 

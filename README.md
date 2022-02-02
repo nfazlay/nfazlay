@@ -2,7 +2,7 @@
 
 ### I'm a 4th year Computer Science Student at CarletonU!
 
-- 🔭 Ex Nokia | Incoming Ciena 🖥️
+- 🔭 Ex Nokia | Current Ciena 🖥️
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Make myself look upto me
 - ⚡ Fun fact: I love  to  cook, and play a little harmonica🎼

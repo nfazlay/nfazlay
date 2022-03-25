@@ -5,7 +5,7 @@
 - 🔭 Ex Nokia | Current Ciena 🖥️
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Make myself look upto me
-- ⚡ Fun fact: I love  to  cook, and play a little harmonica🎼
+- ⚡ Extras: I love  to  cook, and play a little harmonica🎼
 
 ### Connect with me:
 
